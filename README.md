@@ -1,6 +1,6 @@
 # Your Dream XI
 
-[Live Demo](https://your-drean-xi.netlify.app)
+[Live Link](https://your-drean-xi.netlify.app)
 
 This is a React-based web application where users can build their dream XI cricket team by selecting players from a list, similar to an auction-style selection. The project demonstrates the use of core React components and hooks, as well as conditional rendering and data handling with JSON.
 
