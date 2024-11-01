@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/25MSxjb/shakib.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "player_type": "All-rounder",
+    "batting_type": "Left-handed",
+    "price": 1200000
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/XCbGXyr/Tamim-Iqbal.jpg",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "player_type": "Batsman",
+    "batting_type": "Left-handed",
+    "price": 900000
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/j8kDFGc/mashrafe-mortaza-1.webp",
+    "name": "Mashrafe Mortaza",
+    "country": "Bangladesh",
+    "player_type": "Bowler",
+    "batting_type": "Right-handed",
+    "price": 850000
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/Wps7GVz/ZFk4-PHOm-400x400.jpg",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "player_type": "Keeper-Batsman",
+    "batting_type": "Right-handed",
+    "price": 950000
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/y846DbP/942a4-17194584871812-1920.jpg",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "player_type": "Bowler",
+    "batting_type": "Left-handed",
+    "price": 1000000
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/TMfXV15/mahmudullah-riyad.jpg",
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "player_type": "All-rounder",
+    "batting_type": "Right-handed",
+    "price": 750000
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co.com/KG2MmjL/1021.jpg",
+    "name": "Mohammad Saifuddin",
+    "country": "Bangladesh",
+    "player_type": "All-rounder",
+    "batting_type": "Right-handed",
+    "price": 800000
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co.com/j8WBFqH/Towhid-Hridoy.webp",
+    "name": "Towhid Hridoy",
+    "country": "Bangladesh",
+    "player_type": "Batsman",
+    "batting_type": "Right-handed",
+    "price": 700000
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co.com/FzbDjmW/images.jpg",
+    "name": "Rishad Hossain",
+    "country": "Bangladesh",
+    "player_type": "All-rounder",
+    "batting_type": "Right-handed",
+    "price": 650000
+  }
+]
